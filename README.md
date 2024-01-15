@@ -1,6 +1,18 @@
 # ABOUT
 
-The quiz application begins with an introductory page, offering users an overview of the scoring system and essential instructions. Following this, users are prompted to enter their email to initiate the quiz. The subsequent quiz section presents 15 questions, each with options for users to select. A timer, indicating the remaining 30 minutes, ensures time awareness, and a navigation panel facilitates easy movement between questions. The quiz auto-submits once the time limit elapses. Upon completion, users are directed to the result page, where they can view their score alongside a detailed breakdown of each question, displaying both their chosen answers and the correct ones. The navigation panel, available throughout the quiz, aids users in efficient question navigation. Overall, the application aims to provide a seamless and informative quiz experience.
+This is a quiz application which begins with an introductory page, offering users an overview of the scoring system and essential instructions. Following this, users are prompted to enter their email to initiate the quiz. The subsequent quiz section presents 15 questions, each with options for users to select. A timer, indicating the remaining 30 minutes, ensures time awareness, and a navigation panel facilitates easy movement between questions. The quiz auto-submits once the time limit elapses. Upon completion, users are directed to the result page, where they can view their score alongside a detailed breakdown of each question, displaying both their chosen answers and the correct ones. The navigation panel, available throughout the quiz, aids users in efficient question navigation. Overall, the application aims to provide a seamless and informative quiz experience.
+
+# OverView of the Website:
+
+
+![2024-01-15](https://github.com/Moumita2002/quiz/assets/102172188/5fef466e-67e0-4a5c-b49b-66640cf8c203)
+
+
+![2024-01-15 (1)](https://github.com/Moumita2002/quiz/assets/102172188/9a075040-8e8c-4d04-8ad0-560b59eb2a45)
+
+The questons which are not attempted are kept blank
+
+![2024-01-15 (2)](https://github.com/Moumita2002/quiz/assets/102172188/c623fda0-290d-461e-aeb7-246006c3d05e)
 
 # Getting Started with Create React App
 
