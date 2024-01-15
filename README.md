@@ -14,6 +14,15 @@ The questons which are not attempted are kept blank
 
 ![2024-01-15 (2)](https://github.com/Moumita2002/quiz/assets/102172188/c623fda0-290d-461e-aeb7-246006c3d05e)
 
+
+# Components:
+
+- NavigationPanel.js - The NavigationPanel component facilitates user navigation through the quiz. It dynamically styles buttons based on user interactions.
+
+- Questions.js - The Questions component is the core module of the React-based quiz application. It manages a set of 15 questions, includes a timer for the 30-minute quiz duration, and provides a user-friendly navigation panel. The component dynamically updates question content, tracks user responses, and displays results upon completion, showcasing answers, correct solutions, and the overall score. Its simple and intuitive design makes it easily integrable into any React quiz application, ensuring a seamless and engaging user experience.
+
+- Result.js - The Result component provides users with a comprehensive overview of their quiz performance. It features a score board displaying the total number of questions, quiz points, and earned points. The user can restart the quiz by clicking the "Restart" button. Additionally, a table presents each question along with the user's selected answer and the correct answer for detailed review. The component is designed for easy integration into React quiz applications, offering a user-friendly and informative results display.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
