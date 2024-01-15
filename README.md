@@ -15,7 +15,7 @@ The questons which are not attempted are kept blank
 ![2024-01-15 (2)](https://github.com/Moumita2002/quiz/assets/102172188/c623fda0-290d-461e-aeb7-246006c3d05e)
 
 
-# Components:
+# Three main components:
 
 - NavigationPanel.js - The NavigationPanel component facilitates user navigation through the quiz. It dynamically styles buttons based on user interactions.
 
