@@ -2,7 +2,7 @@
 
 This is a quiz application which begins with an introductory page, offering users an overview of the scoring system and essential instructions. Following this, users are prompted to enter their email to initiate the quiz. The subsequent quiz section presents 15 questions, each with options for users to select. A timer, indicating the remaining 30 minutes, ensures time awareness, and a navigation panel facilitates easy movement between questions. The quiz auto-submits once the time limit elapses. Upon completion, users are directed to the result page, where they can view their score alongside a detailed breakdown of each question, displaying both their chosen answers and the correct ones. The navigation panel, available throughout the quiz, aids users in efficient question navigation. Overall, the application aims to provide a seamless and informative quiz experience.
 
-Live : https://65a51d0940334638081bee04--zesty-churros-7cdfc9.netlify.app/quiz
+Live : [https://65a51d0940334638081bee04--zesty-churros-7cdfc9.netlify.app/quiz](https://zesty-churros-7cdfc9.netlify.app/)
 
 # OverView of the Website:
 
